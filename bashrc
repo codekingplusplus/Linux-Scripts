@@ -1,4 +1,10 @@
 #.bashrc
+#--------------------------------------------------#
+# This is my current bashrc file, feel free to use #
+#    and change for your own use.                  #
+#                                                  #
+# David Medina                                     #
+#--------------------------------------------------#
 
 #------------------------------#
 #           VARIABLES          #
